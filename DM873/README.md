@@ -56,7 +56,7 @@ Numbering convention: keep F01–F07, E01–E03, T01–T02 and card numbers stab
 
 ## Drive sitemap
 
-Complete map of 🔒 `CoursesE26/DM873` on Google Drive (77 files listed, snapshot 22 Oct 2026). Every entry links to Drive and requires access.
+Complete map of 🔒 `CoursesE26/DM873` on Google Drive (72 files listed, snapshot 22 Oct 2026). Every entry links to Drive and requires access.
 
 <details>
 <summary>Show full folder and file tree</summary>
@@ -134,12 +134,6 @@ Complete map of 🔒 `CoursesE26/DM873` on Google Drive (77 files listed, snapsh
     - 📁 **[Python/](https://drive.google.com/drive/folders/19rsMsFx8hVx8P_oXWtng-bhD2LZqMZwz)**
       - 📄 [T01_DM873_reader.pdf](https://drive.google.com/file/d/1lJgFWuRLO434y1EmbI042qyzwopIODgb/view)
       - 📄 [T02_DM873_reader.pdf](https://drive.google.com/file/d/1QME_2xAW-DSSqUNIDHrUXU7BO04Ka4JE/view)
-    - 📁 **[Version1/](https://drive.google.com/drive/folders/15p0OR7YvUG4XyCnsHp6PaQrmQf2yPG8I)**
-      - 📄 [DM873_laeseplan_kort.pdf](https://drive.google.com/file/d/1vAzRuYG8TNhfOT_NKYjXRjMdLSu0nho_/view)
-      - 📄 [DM873_laeseplan_med_Bishop.pdf](https://drive.google.com/file/d/14CNX1le-1fbRGcHcOdnPmeRpJYD7ZdPd/view)
-      - 📄 [DM873_laeseplan_uge1-3_med_bogsider_og_loesninger.pdf](https://drive.google.com/file/d/1TryQ4j1Xi7wdUylkZy80b6y7UdsJ82wb/view)
-      - 📄 [DM873_ugeplan_kort.pdf](https://drive.google.com/file/d/1P6PrLct9ktfjRnthYfC45wfd-hIjLWYl/view)
-      - 📄 [DM873_memorykort_54_spoergsmaal.pptx](https://drive.google.com/file/d/1AKJFQSYooRCIFhVX6tGXsx0PM9t4tLhn/view)
   - 📁 **[SlidesMaterialWeek/](https://drive.google.com/drive/folders/1-Tt9TpeJpNEjpEEPhWE0kiewAX5nb0-i)**
     - 📄 [01_introduction.pdf](https://drive.google.com/file/d/1xCFGhJnRxb7n_zWMp0twiRSbVerIjbfe/view)
     - 📄 [02_feedforward_part1.pdf](https://drive.google.com/file/d/1Xbhdc26EBUuWbUiOJ3V4ZVQHu9ZQtZxz/view)
