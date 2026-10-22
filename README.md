@@ -37,10 +37,10 @@ Exact exam dates are added when SDU publishes them.
 README.md            this page
 ACCESS.md            how Drive access works
 MM845/
-  README.md          course page: format, lectures, material map
+  README.md          course page: format, lectures, full Drive sitemap
   exam-questions.md  the 8 exam topics with reading map per topic
 DM873/
-  README.md          course page: lectures, exercises, readers, flashcards
+  README.md          course page: lectures, exercises, full Drive sitemap
   project-1.md       Cat & Dog classification project
   project-2.md       placeholder until released
   oral-exam.md       oral exam preparation page
